@@ -10,4 +10,8 @@ git clone https://github.com/elchaka0/Traductor-CodigoMorse
 python3 traductor.py
 ```
 
+# Requisitos
+- Tener instalado python
+- Sistema operativo: cualquiera
+
 
