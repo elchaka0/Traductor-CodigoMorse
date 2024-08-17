@@ -3,6 +3,8 @@ Este programa permite traducir texto a codigo morse o codigo morse a texto, una 
 # Istalacion
 ```
 git clone https://github.com/elchaka0/Traductor-CodigoMorse
+cd Traductor-CodigoMorse
+chmod +x traductor.py
 ```
 
 # Ejecucion
